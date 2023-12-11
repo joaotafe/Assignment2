@@ -1,0 +1,7 @@
+C:\C#\TafeEnrolmentSystem\bin\Debug\TafeEnrolmentSystem.dll
+C:\C#\TafeEnrolmentSystem\bin\Debug\TafeEnrolmentSystem.pdb
+C:\C#\TafeEnrolmentSystem\obj\Debug\TafeEnrolmentSystem.csproj.AssemblyReference.cache
+C:\C#\TafeEnrolmentSystem\obj\Debug\TafeEnrolmentSystem.csproj.CoreCompileInputs.cache
+C:\C#\TafeEnrolmentSystem\obj\Debug\TafeEnrolmentSystem.dll
+C:\C#\TafeEnrolmentSystem\obj\Debug\TafeEnrolmentSystem.pdb
+C:\C#\TafeEnrolmentSystem\obj\Debug\TafeEnrolmentSystem.csproj.SuggestedBindingRedirects.cache
